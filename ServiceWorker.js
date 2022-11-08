@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Slots-1.0";
 const contentToCache = [
     "Build/build2.loader.js",
-    "Build/build2.framework.js.br",
-    "Build/build2.data.br",
-    "Build/build2.wasm.br",
+    "Build/build2.framework.js.unityweb",
+    "Build/build2.data.unityweb",
+    "Build/build2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
